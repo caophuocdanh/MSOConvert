@@ -1,3 +1,5 @@
+![Giao diện Tool xls2xlsx](app.png)
+
 # XLS to XLSX Converter
 
 Công cụ tự động chuyển đổi hàng loạt file Excel định dạng cũ (`.xls`) sang định dạng mới (`.xlsx`) trên Windows. Tool sử dụng bộ máy Excel (Excel Engine) để đảm bảo tính toàn vẹn dữ liệu, hỗ trợ quét thư mục nhiều cấp và xuất báo cáo chi tiết.
@@ -86,5 +88,5 @@ THẤT BẠI: 02
 ```
 
 ---
-**Author:** @danhcp
-**Version:** 1.0.0
+*   **Author:** @danhcp
+*   **Version:** 1.0.0
