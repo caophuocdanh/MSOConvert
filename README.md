@@ -86,5 +86,5 @@ THẤT BẠI: 02
 ```
 
 ---
-**Author:** @danhcp
-**Version:** 1.0.0
+*   **Author:** @danhcp
+*   **Version:** 1.0.0
