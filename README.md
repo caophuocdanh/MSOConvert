@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ### 2. Chạy mã nguồn
 ```bash
-python "Office Converter.py"
+python "MSO Convert.py"
 ```
 
 ### 3. Đóng gói thành file EXE
