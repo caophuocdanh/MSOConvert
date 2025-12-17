@@ -1,7 +1,7 @@
 # MSO Convert
 
 <p align="center">
-  <img src="MSOConvert.png" alt="Giao diện MSO Convert" width="400">
+  <img src="MSOConvert.png" alt="Giao diện MSO Convert" max-width="700">
 </p>
 
 ## 🚀 Tính Năng Chính
