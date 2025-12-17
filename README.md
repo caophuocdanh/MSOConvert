@@ -1,8 +1,6 @@
 # MSO Convert
 
-![Giao diện MSO Convert](app.png)
-
-Công cụ tự động chuyển đổi hàng loạt các tệp Microsoft Office định dạng cũ (`.xls`, `.doc`, `.ppt`) sang định dạng mới (`.xlsx`, `.docx`, `.pptx`) trên Windows. Tool sử dụng bộ máy của chính các ứng dụng Office (Excel, Word, PowerPoint) để đảm bảo tính toàn vẹn dữ liệu ở mức cao nhất.
+![Giao diện MSO Convert](MSOConvert.png)
 
 ## 🚀 Tính Năng Chính
 
