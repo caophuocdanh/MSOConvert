@@ -1,13 +1,13 @@
 @echo off
-title Build Excel Converter Tool
+title Build MSO Convert Tool
 color 0A
 cls
 
 :: ============================================================
 :: CẤU HÌNH (Sửa tên file tại đây nếu cần)
 :: ============================================================
-set "SCRIPT_NAME=xls2xlsx.py"
-set "EXE_NAME=xls2xlsx"
+set "SCRIPT_NAME=MSO Convert.py"
+set "EXE_NAME=MSO Convert"
 :: ============================================================
 
 echo.
@@ -54,6 +54,7 @@ echo.
 :: Lệnh PyInstaller với các tham số tối ưu cho PyWin32
 pyinstaller --noconsole --onefile --clean ^
     --icon=icon.ico ^
+    --add-data "icon.ico;." ^
     --name "%EXE_NAME%" ^
     --hidden-import="win32com.client" ^
     --hidden-import="pythoncom" ^
@@ -80,4 +81,3 @@ echo   HOAN TAT!
 echo   File EXE cua ban nam trong thu muc "dist"
 echo ========================================================
 echo.
-pause
